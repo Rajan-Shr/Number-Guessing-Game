@@ -27,5 +27,5 @@ A simple yet engaging number guessing game built with Django, where players try 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
-   cd number-guessing-game
+   git clone https://github.com/Rajan-Shr/Number-Guessing-Game
+   cd Number-Guessing-Game
